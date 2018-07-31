@@ -1,3 +1,25 @@
+1.可安装依赖后在目录执行 npm start
+2.可在./build 下 使用node 搭建简单服务器后查看
+3.为赶时间没有将redux中的 要素分离成单独的文件 而是写在了app.js 中
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
